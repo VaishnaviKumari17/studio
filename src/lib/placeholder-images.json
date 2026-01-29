@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "csk-logo",
+      "description": "Chennai Super Kings Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1766525564685-142eab11041b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsaW9uJTIwbG9nb3xlbnwwfHx8fDE3Njk2MzgzMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lion logo"
+    },
+    {
+      "id": "mi-logo",
+      "description": "Mumbai Indians Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1621536816183-961fadd0fe7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxibHVlJTIwZ29sZHxlbnwwfHx8fDE3Njk3MDIzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue gold"
+    },
+    {
+      "id": "rcb-logo",
+      "description": "Royal Challengers Bangalore Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1711468023454-d0172a19d7de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsaW9uJTIwcmVkfGVufDB8fHx8MTc2OTcwMjM1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lion red"
+    },
+    {
+      "id": "kkr-logo",
+      "description": "Kolkata Knight Riders Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1668261200441-afd5c5c55415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8a25pZ2h0JTIwaGVsbWV0fGVufDB8fHx8MTc2OTcwMjM1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "knight helmet"
+    },
+    {
+      "id": "srh-logo",
+      "description": "Sunrisers Hyderabad Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1601907043785-60fd7d2f74fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxlYWdsZSUyMG9yYW5nZXxlbnwwfHx8fDE3Njk3MDIzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "eagle orange"
+    },
+    {
+      "id": "pbks-logo",
+      "description": "Punjab Kings Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1763296557834-a64fe17e513e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsaW9uJTIwc2hpZWxkfGVufDB8fHx8MTc2OTcwMjM1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lion shield"
+    },
+    {
+      "id": "rr-logo",
+      "description": "Rajasthan Royals Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1761474909704-b522789c0f24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyb3lhbCUyMGVtYmxlbXxlbnwwfHx8fDE3Njk3MDIzNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "royal emblem"
+    },
+    {
+      "id": "dc-logo",
+      "description": "Delhi Capitals Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1533914772478-15cc30e93990?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0aWdlciUyMGJsdWV8ZW58MHx8fHwxNzY5NzAyMzU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tiger blue"
+    }
+  ]
 }
