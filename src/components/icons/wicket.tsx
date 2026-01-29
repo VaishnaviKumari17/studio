@@ -14,7 +14,7 @@ export const WicketIcon = ({ className, ...props }: React.SVGProps<SVGSVGElement
   >
     <path d="M8 8v12" />
     <path d="M12 8v12" />
-    <path d'="M16 8v12" />
+    <path d="M16 8v12" />
     <path d="M6 8h12" />
   </svg>
 );
